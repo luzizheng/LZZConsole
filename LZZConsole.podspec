@@ -3,7 +3,7 @@ Pod::Spec.new do |spec|
 
 
   spec.name         = "LZZConsole"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.3"
   spec.summary      = "App Console"
 
   spec.description  = <<-DESC
@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   spec.homepage     = "https://github.com/luzizheng/LZZConsole"
 
 
-  spec.license      = "Apache License 2.0"
+  spec.license      = "Copyright (c) 2019 Luzz. All rights reserved."
 
 
   spec.author             = { "Frank Lu" => "arloou@gmail.com" }
