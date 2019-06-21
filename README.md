@@ -14,7 +14,7 @@ source 'https://github.com/CocoaPods/Specs.git'
 platform :ios, '8.0'
 
 target 'TargetName' do
-pod 'LZZConsole', '~> 0.0.1'
+pod 'LZZConsole', '~> 0.0.2'
 end
 ```
 
